@@ -1,0 +1,458 @@
+  <!DOCTYPE html>
+<html>
+<head>
+<!-------------------google-font------------------------------------->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+<!---------------------google-font------------------------------------->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!--------------------------------------icon---------------------->
+
+<link rel="stylesheet" href="css/style.css">
+ 
+</head>
+<body>
+<div class="header-section">
+	    <div class="row">
+		   <div class="header-parrents">
+		        <div class="header-left">
+				   <div class="left-ul">
+				     <ul> 
+					        <li id="too-much"><a href=""><img src="img/manu-logo.png" alt=""></a></li>
+                            <li><a href="">Our Stor</a></li>
+                            <li><a href="">Gallery</a></li>
+                            <li><a href="">Contact</a></li>
+                            <li><a href="">Cart</a></li>
+                            <li><a href="">Checkout</a></li>
+                            <li><a href="">log in</a></li>
+                            <li><a href="" class="big-fonts">Whole Sale</a></li>
+					 </ul>
+				   </div>
+				</div>
+				<div class="header-right">
+				   <div class="right-ul">
+                         <ul>
+							 <li>
+								   <input type="serch" placeholder="serch">
+								   <span id="dadu"><i class="fa-solid fa-magnifying-glass"></i></span>
+						     </li>
+                             <li>
+									<a href="#">Subscribe&nbsp;&nbsp;&nbsp;<span><img src="img/hhh.png"></span></a>
+							 </li>
+							 <li>
+									<a href="#">Cart&nbsp;&nbsp;&nbsp;<span><img src="img/cart.png"></span></a>
+							 </li>
+						 </ul>
+				</div>
+		   </div>
+		</div>
+	</div>
+</div>
+<!------------second-part-logo------------------------------------------------------------------------------------------------------------------------------------------------>
+<div class="logo-section">
+   <div class="row">
+     <div class="logo-parrenst">
+	      <div class="logo-son">
+		      <img src="img/tuhin.png" alt="logo">
+		  </div>
+	 </div>
+   </div>
+</div>
+<!---------------------------------------this the header third part------------------>
+<div class="third-section">
+   <div class="row">
+     <div class="third-parrenst">
+	      <div class="third-ul">
+		     <ul>
+			    <li><a href="#" id="active">home</a></li> 
+				<li><a href="#">Exclusives  </a></li>
+				<li><a href="#">House + Home</a></li>
+				<li><a href="#">Lifestyle  </a></li>
+				<li><a href="#">Gifts</a></li>
+				<li><a href="#">Sale</a></li>
+			 </ul>
+		  </div>
+	 </div>
+   </div>
+</div>
+<!------------------------------banner-section----------------------------------------------------->
+<div class="banner-section">
+   <div class="row">
+     <div class="banner-parrents">
+	      <div class="third-banner">
+		     <h1>The City Farm’s</h1>
+			 <p>collection of bantang bage 10% off code</p>
+			
+		  </div>
+		   <div class="banner-btn">
+			  <a href="#">Shop Now</a>  
+			 </div>
+	 </div>
+   </div>
+</div>
+<!------------------------------------gallary-section----------------------------->
+<div class="gallary-section">
+    <div class="container">
+	 <div class="row">
+	  <div class="gallary-extra-header">
+	     <h3>shop</h3>
+		 <h1>with us</h1>
+	  
+	  </div>
+     <div class="gallary-parrents">
+	    <div class="all-items">
+		      <div class="items-image">
+			     <img src="img/bg.png">
+			      <div class="contant">
+				   <a href><i class="fa-brands fa-pinterest"></i>&nbsp;save</a>
+					  <p>Why is life So Hard?</p>
+				  </div>
+			  </div>
+			  <div class="pera">
+			     <p>Meyer Lemon Olive Oil</p>
+				 <p>$10.00</p>
+			  </div> 
+		</div>
+	
+		<div class="all-items">
+		      <div class="items-image">
+			     <img src="img/this1.png">
+			     <div class="contant">
+				  <a href><i class="fa-brands fa-pinterest"></i>&nbsp;save</a>
+					  <p>Why is life So Hard?</p>
+				  </div>
+			  </div>
+			  <div class="pera">
+			     <p>Meyer Lemon Olive Oil</p>
+				 <p>$10.00</p>
+			  </div>
+		</div>
+		<div class="all-items">
+		      <div class="items-image">
+			     <img src="img/this3.png">
+				 <div class="contant">
+				  <a href><i class="fa-brands fa-pinterest"></i>&nbsp;save</a>
+					  <p>Why is life So Hard?</p>
+				  </div>
+				 
+				 </div>
+				 <div class="pera">
+			     <p>Meyer Lemon Olive Oil</p>
+				 <p>$10.00</p>
+			  </div>
+		</div>
+		<div class="all-items">
+		      <div class="items-image">
+			     <img src="img/this3.png">
+			     <div class="contant">
+				  <a href><i class="fa-brands fa-pinterest"></i>&nbsp;save</a>
+					  <p>Why is life So Hard?</p>
+				  </div>
+			  </div>
+			  <div class="pera">
+			     <p>Meyer Lemon Olive Oil</p>
+				 <p>$10.00</p>
+			  </div>
+		</div>
+		<div class="all-items">
+		      <div class="items-image">
+			     <img src="img/this4.png">
+				
+			      <div class="contant">
+				       <a href><i class="fa-brands fa-pinterest"></i>&nbsp;save</a>
+					  <p>Why is life So Hard?</p>
+				  </div>
+			  </div> 
+			  <div class="pera">
+			     <p>Meyer Lemon Olive Oil</p>
+				 <p>$10.00</p>
+			  </div>
+		</div>  
+		<div class="all-items">
+		      <div class="items-image">
+			     <img src="img/life.png">
+			    <div class="contant">
+				 <a href><i class="fa-brands fa-pinterest"></i>&nbsp;save</a>
+					  <p>Why is life So Hard?</p>
+				  </div>
+			  </div>
+			  <div class="pera">
+			     <p>Meyer Lemon Olive Oil</p>
+				 <p>$10.00</p>
+			  </div>
+		</div>
+		<div class="all-items">
+		      <div class="items-image">
+			     <img src="img/V005.png">
+			     <div class="contant">
+				   <a href><i class="fa-brands fa-pinterest"></i>&nbsp;save</a>
+					  <p>Why is life So Hard?</p>
+				  </div>
+			  </div>
+			  <div class="pera">
+			     <p>Meyer Lemon Olive Oil</p>
+				 <p>$10.00</p>
+			  </div>
+			 
+		</div>
+		<div class="all-items">
+		      <div class="items-image">
+			     <img src="img/-homepage-V005.png">
+				 
+			    <div class="contant">
+				        <a href="#"><i class="fa-brands fa-pinterest"></i>&nbsp;save</a>
+					  <p>Why is life So Hard?</p>
+				  </div>
+			  </div>
+			  <div class="pera">
+			     <p>Meyer Lemon Olive Oil</p>
+				 <p>$10.00</p>
+			  </div>
+		</div>
+	 </div>
+   </div>
+	</div>
+  
+</div>
+<!==========/btn/===========>
+<div class="btn-section">
+   <div class="row">
+     <div class="btn-parrenst">
+	  <div class="shantinai-btn">
+	      <a href="#">Shop All Products</a>  
+	 </div>
+   </div>
+</div>
+</div>
+<!-----------------------/stroy/---------------------->
+<div class="dur-harmjada">
+     <div class="container">
+	     <div class="row">
+		 <div class="fitback">
+		     <h3>our</h3>
+			 <h2>stroy</h2>
+		 </div>
+		 <div class="story-parrents">
+		     <div class="story-contant">
+		      <h1>the city Farm Story </h1>	
+              <p> My heart is in the country but by design I live in the city.  I wanted my children to have the balance between both worlds and I was lucky enough to give that to them. A location where life slows down and becomes simple once again, my moment of clarity came in developing The City Farm.</p>	
+			  <div class="stroy-btn">
+			  
+                <a href="#">Learn More&nbsp;&nbsp;&nbsp;<span><img src="img/yyyy.png"></span></a>  
+			  </div>		  
+			 </div>
+		 <div class="stroy-image">
+		  <img src="img/5.png">
+		 </div>
+		 </div>
+		 </div>
+	 </div>
+</div>
+<!-------------------the-city-fram--------------------------->
+<div class="city-section">
+      <div class="container">
+	         <div class="extra-city">
+			 <image src="./img/very.png" alt="logo">
+			 
+			 </div>
+	      <div class="city-parrents">
+ 		     <div class="box">
+			    <div class="box-image">
+                    <img src="img/111.png">   
+					<div class="img-box-content">
+						<div class="img-posi">
+							<img src="./assets/" alt="">
+						</div>
+						<div class="img-box-content">
+						<div class="logo-center">
+						<img style="width:50px; height:50px;" src="./img/dog.png">
+						
+						</div>
+						<div class="logo-text"></div>
+						<p>@joannagaines</p>
+					</div>
+					</div>
+					<div class="hover-box">
+					    <div class="hover-icon">
+						     <i class="fa-solid fa-camera-retro"></i>
+						</div>
+						<div class="hover-text">
+						<h2>SEE WHATS</h2>
+						<h1>NEW</h1>
+						<h5>FOLLOW</h5>
+						</div>
+						<div class="hover-pera">
+						<p>@JONNAGAINES</p>
+						<p>@CHAPGANES</p>
+						<p>@THE CITY FRAM</p>
+						
+						</div>
+						 
+					</div> 
+				</div>
+               </div>
+			    <div class="box">
+			    <div class="box-image">
+                    <img src="img/111.png">   
+					<div class="img-box-content">
+						<div class="logo-center">
+						<img style="width:50px; height:50px;" src="./img/dog.png">
+						
+						</div>
+						<div class="logo-text"></div>
+						<p>@joannagaines</p>
+					</div>
+					<div class="hover-box">
+					    <div class="hover-icon">
+						     <i class="fa-solid fa-camera-retro"></i>
+						</div>
+						<div class="hover-text">
+						<h2>SEE WHATS</h2>
+						<h1>NEW</h1>
+						<h5>FOLLOW</h5>
+						</div>
+						<div class="hover-pera">
+						<p>@JONNAGAINES</p>
+						<p>@CHAPGANES</p>
+						<p>@THE CITY FRAM</p>
+						
+						</div>
+						 
+					</div> 
+				</div>
+               </div>
+			    <div class="box">
+			    <div class="box-image">
+                    <img src="img/horse.png"> 
+					<div class="img-box-content">
+						<div class="logo-center">
+						<img style="width:50px; height:50px;" src="./img/dog.png">
+						
+						</div>
+						<div class="logo-text"></div>
+						<p>@joannagaines</p>
+					</div> 
+					<div class="hover-box">
+					    <div class="hover-icon">
+						     <i class="fa-solid fa-camera-retro"></i>
+						</div>
+						<div class="hover-text">
+						<h2>SEE WHATS</h2>
+						<h1>NEW</h1>
+						<h5>FOLLOW</h5>
+						</div>
+						<div class="hover-pera">
+						<p>@JONNAGAINES</p>
+						<p>@CHAPGANES</p>
+						<p>@THE CITY FRAM</p>
+						
+						</div>
+						 
+					</div> 
+				</div>
+               </div>
+			   <div class="box">
+			    <div class="box-image">
+                    <img src="img/cocklet.png"> 
+					<div class="img-box-content">
+						<div class="logo-center">
+						<img style="width:50px; height:50px;" src="./img/dog.png">
+						
+						</div>
+						<div class="logo-text"></div>
+						<p>@joannagaines</p>
+					</div>
+					<div class="hover-box">
+						<h1>new what</h1>
+						<h2>see whats</h2>
+						<p>jkl;sdjh;kldfjh;fkldmjh;iod</p>
+					</div> 
+				</div>
+               </div> 
+			 </div>
+		  </div>
+		  </div>
+		  <!----------------------------foter-section-------------------------------------------------------------------------------------------------------->
+		  
+		  
+ <!----------------this the last -part--------------------------->
+ <div class="foter-section">
+     <div class="container">
+	     <div class="row">
+		       <div class="last-parrents">
+			      <div class="div-items">
+				       <div class="div-frist-contant">
+					       <div class="image-part">
+						<img src="img/kalke-treat-dic.png">						   
+						   </div>
+						 <div class="div-ul-part1">
+						    <ul>
+							     <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+							  <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+						  <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+						  <li><a href="#"><i class="fa-brands fa-google-plus-g"></i></a></li>
+							</ul>
+						 </div>
+						<div class="div-ul-part2">
+						    <ul>
+                           <li><a href="#"><i class="fa-brands fa-tiktok"></i></a></li>
+						   <li><a href="#"><i class="fa-brands fa-pinterest"></i></a></li>
+						  <li><a href="#"><i class="fa-solid fa-camera-rotate"></i></a></li>
+						  <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+							
+							</ul>
+						</div>
+					 
+					   </div>
+				  </div>
+			      <div class="div-items">
+				     <div class="all-contant">
+					      <div class="all-text-part">
+                             <h1>Need Help</h1>
+							 <p>Call us (888) 492-FARM</p>
+						      <p>Call us (888) 492-FARM</p>
+						  </div>
+						  <div class="all-text-part2">
+						       <p>save 10% by sign up</p>
+						  </div>
+						  <div class="all-btn-part">
+						      <input type="email" placeholder="Email">
+							 <a href="#">SHOP NOW</a>
+						  </div>
+					 </div>
+				  </div>
+			      <div class="div-items">
+				       <div class="ul-items">
+						   <h1>NEDD HELP</h1>
+                            <P>Shipping & Delivery</P>						   
+						   <P>Returns</li>
+						   <P>Terms & Conditions</P>
+						   <P>Privacy Policy</P>
+					   </div>
+				  </div>
+			      <div class="div-items">
+                          <div class="div-itemsss">
+						   <h1>the city fram</h1>
+                            <P> Our Story</P>						   
+						   <P>Image Gallery</li>
+						   <P>Wholesale</P>   	
+				</div>
+				  </div>
+			      <div class="div-items">
+				        <div class="last-sestem">
+						   <h1>HELP</h1>
+                           <P>  HELP & INFO</P>						   
+						   <P>ORDER STATUS</p>
+						   <P>SHIPPING</P>
+						   <P>WEBSITE FEEDBACK</P> 
+						</div>
+				  </div>
+			   </div>
+		 </div> 
+	 </div>
+ </div>
+</body>
+
+</html>
